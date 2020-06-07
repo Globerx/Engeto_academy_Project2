@@ -1,6 +1,5 @@
-# Project2 - Bulls and Cows
-# Popis: 2. projekt 'Bulls and cows' v Engeto Online Python Akademii
-# Autor: Jiri Gloza
+# Description: 2. project 'Bulls and cows' in Engeto Online Python Academy
+# Author: Jiri Gloza
 
 # Define basic variables
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
